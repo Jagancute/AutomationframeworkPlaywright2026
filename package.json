@@ -1,0 +1,22 @@
+{
+  "name": "playwrightautomationproject",
+  "version": "1.0.0",
+  "description": "This is playwright automation",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Dell",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  },
+  "dependencies": {
+    "allure-commandline": "^2.46.1",
+    "allure-playwright": "^3.14.0",
+    "csv-parse": "^7.0.3",
+    "dotenv": "^18.0.9",
+    "xlsx": "^0.18.5"
+  }
+}
